@@ -23,7 +23,7 @@ team uniform generator
 郭庆，gq，15，xl   
 庞江圣，PJS，7，s  
 崔渠，CQ，16，xxl  
-王磊，W.L, 17, xxl   
+王磊，WL, 17, xxl   
 吴海淘，  
 胡毅奇，  
 
