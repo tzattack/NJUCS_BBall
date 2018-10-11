@@ -8,6 +8,6 @@ team uniform generator
 宁天昊，N+H，1，xxl  
 李刚，Lee，0，s  
 王超，Sunny，11，m  
-马扬，M+Y，26，xxl
+马扬，M+Y，26，xxl  
 宾义，BY，10，xl
 
