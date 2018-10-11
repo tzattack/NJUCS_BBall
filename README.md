@@ -1,5 +1,4 @@
-#
-NJUCS_BBall
+#NJUCS_BBall
 team uniform generator
 
 ## real_name, code_name, number, size
