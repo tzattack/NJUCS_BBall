@@ -23,6 +23,5 @@ team uniform generator
 庞江圣，PJS，7，s  
 崔渠，CQ，16，xxl  
 王磊，W.L, 17, xxl   
-吴海淘，  
-胡毅奇，  
+胡毅奇，Helicopter，9，L
 
