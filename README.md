@@ -19,3 +19,8 @@ team uniform generator
 张仪，ZY，24，xl  
 徐同同，Twong Xu，18，xl  
 胡圣佑，hsy，28，xl  
+郭庆，gq，15，xl  
+吴海淘，  
+黄磊，  
+胡毅奇，  
+崔渠，  
