@@ -11,7 +11,7 @@ team uniform generator
 马扬，M+Y，26，xxl  
 宾义，BY，10，xl  
 何甲，nicehjia，6，xl  
-麦丞程，Mai CC，17，s  
+麦丞程，Mai CC，33，s  
 孙东旭，DongDongDong，8，xxl  
 董豪晨，H.-C. Dong，5，xl  
 李刚，kakunka，22，m  
