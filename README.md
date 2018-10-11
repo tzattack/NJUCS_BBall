@@ -10,3 +10,4 @@ team uniform generator
 王超，Sunny，11，m  
 马扬，M+Y，26，xxl
 宾义，BY，10，xl
+
