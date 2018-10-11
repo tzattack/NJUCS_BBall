@@ -21,7 +21,8 @@ team uniform generator
 胡圣佑，hsy，28，xl  
 郭庆，gq，15，xl   
 庞江圣，PJS，7，s  
+崔渠，CQ，16，xxl  
 吴海淘，  
 黄磊，  
 胡毅奇，  
-崔渠，  
+
