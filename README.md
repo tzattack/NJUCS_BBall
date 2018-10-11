@@ -1,4 +1,4 @@
-# NJUCS_BBall
+#NJUCS_BBall
 team uniform generator
 
 ## real_name, code_name, number, size
@@ -22,7 +22,7 @@ team uniform generator
 郭庆，gq，15，xl   
 庞江圣，PJS，7，s  
 崔渠，CQ，16，xxl  
+王磊，W.L, 17, xxl   
 吴海淘，  
-黄磊，  
 胡毅奇，  
 
