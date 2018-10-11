@@ -20,7 +20,7 @@ team uniform generator
 徐同同，Twong Xu，18，xl  
 胡圣佑，hsy，28，xl  
 郭庆，gq，15，xl   
-庞江圣，PJS，7，s  
+庞江圣，PJS，7，m  
 崔渠，CQ，16，xxl  
 王磊，W.L, 17, xxl   
 胡毅奇，Helicopter，9，L
